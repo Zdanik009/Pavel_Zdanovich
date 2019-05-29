@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout
+                    pattern="%d{ABSOLUTE [%t] %-5level %logger{1} - %msg%n" />
+        </Console>
+
+        <File name="File" fileName="logs/text.log" append="true" bufferedIO="true">
+            <PatternLayout
+                    pattern="%d{yyyy-MMM-dd HH:mm:ss a} [%t] %-5level %logger{5} - %msg%n" />
+        </File>
+
+        <RollingFile name="RollingFile" fileName="logs/apptext.log" append="true" filepattern="logs/${date:yyyy-MM-dd}/%d{yyyy-MM-dd_HH-mm}_%i.log">
+            <PatternLayout
+                    pattern="%d{yyyy-MMM-dd HH:mm:ss a} [%t] %-5level %logger{5} - %msg%n" />
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="10 KB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Logger name= "com.epam.melotrack" level="debug" additivity="true">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="File"/>
+        </Logger>
+        <Root level="trace">
+            <AppenderRef ref="Console" level="debug"/>
+            <AppenderRef ref="RollingFile" level="debug"/>
+        </Root>
+    </Loggers>
+</Configuration>

@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+*, *:before, *:after {
+    /*-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;*/
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    padding: 0;
+    margin: 0;
+}
+
+/*| Navigation |*/
+
+nav {
+    background: #fff;
+    box-shadow: 0 3px 10px -2px rgba(0, 0, 0, .1);
+    border: 1px solid rgba(0, 0, 0, .1);
+    display: flex;
+}
+
+nav ul.right-buttons {
+    list-style: none;
+    width: 70%;
+}
+nav ul.left-buttons{
+    list-style: none;
+    width: 30%;
+}
+nav ul li{
+    /*-webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;*/
+    position: relative;
+}
+nav ul.right-buttons li {
+    float: left;
+}
+nav ul.left-buttons li {
+    float: right;
+}
+nav ul li:hover {
+    background: rgba(0, 0, 0, .15);
+}
+
+nav ul li:hover > ul {
+    display: block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 30px 20px;
+    color: #222;
+    font-size: .9em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav ul ul {
+    list-style: none;
+    display: none;
+    background: #fff;
+    position: absolute;
+    top: 100%;
+    box-shadow: -3px 3px 10px -2px rgba(0, 0, 0, .1);
+    border: 1px solid rgba(0, 0, 0, .1);
+}
+
+nav ul ul li {
+    width: 100%;
+}
+
+nav ul ul li a {
+    padding: 15px 30px;
+    border-bottom: 1px solid rgba(0, 0, 0, .05);
+}
+
+nav ul ul ul {
+    top: 0%;
+    left: 100%;
+}

@@ -1,0 +1,25 @@
+form {
+    position: absolute;
+    display: flex;
+    text-align: right;
+}
+
+label {
+    float: left;
+}
+
+input {
+
+}
+
+select {
+
+}
+
+#tours {
+    size: auto;
+}
+
+#songs {
+    size: auto;
+}

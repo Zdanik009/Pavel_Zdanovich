@@ -1,0 +1,13 @@
+com.epam.melotrack.command
+com.epam.melotrack.command.impl
+com.epam.melotrack.converter
+com.epam.melotrack.dao
+com.epam.melotrack.dao.impl
+com.epam.melotrack.entity
+com.epam.melotrack.exception
+com.epam.melotrack.filter
+com.epam.melotrack.logic
+com.epam.melotrack.pool
+com.epam.melotrack.service
+com.epam.melotrack.servlet
+com.epam.melotrack.validation

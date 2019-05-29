@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Pavel_Zdanovich:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8818cc7-6c23-4256-9200-96c0bc532589" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="database/" />
+    <ignored path=".idea/workspace.xml" />
+    <manually-removed-from-ignored>
+      <directory path="./" />
+    </manually-removed-from-ignored>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="melotrack@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="melotrack@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="melotrack@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="melotrack: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pavel_Zdanovich" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Enum" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>city</find>
+      <find>statisti</find>
+      <find>findC</find>
+      <find>jopa</find>
+      <find>plag</find>
+      <find>prepareTour</find>
+      <find>findTourByTitle</find>
+      <find>findGameBy</find>
+      <find>nex</find>
+      <find>findTourByTi</find>
+      <find>findByTit</find>
+      <find>rand</find>
+      <find>tourDao.findAll()</find>
+      <find>tourDao.findAll</find>
+      <find>findAll()</find>
+      <find>TEM</find>
+      <find>empty</find>
+      <find>addTo</find>
+      <find>new</find>
+      <find>Com</find>
+      <find>foru</find>
+      <find>RES</find>
+      <find>nam</find>
+      <find>lea</find>
+      <find>tour_title</find>
+      <find>findAll</find>
+      <find>DOT</find>
+      <find>main</find>
+      <find>play</find>
+      <find>time</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/impl/SubmitTourCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/impl/LeavePlaygroundCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/CommandType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/Router.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/CommandProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/impl/ShowLoginPageCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/Loader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/validation/TourValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/about.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/common_statistic.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/navigation.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/playground.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/upload_game.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/upload_song.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/upload_tour.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/user_statistic.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/error.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/main.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/Logic.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/logic/LogicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/logic/LoadLogicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/UploadLogic.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/logic/UploadLogicTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/pool/ConnectionCreator.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/pool/ConnectionCreatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/Scrambler.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/service/ScramblerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/dao/impl/GameDaoImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/validation/GameValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/validation/GameValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/validation/UserValidatiorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/validation/TourValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/epam/melotrack/validation/SongValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/ResponseContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/converter/BrowserSupportedAudioFormats.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/servlet/FrontController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/converter/AudioFormatConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/ContentLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/pool/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/dao/impl/GameDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/filter/ServletSecurityFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/dao/impl/TourDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/servlet/RequestContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/LoadLogic.java" />
+        <option value="$PROJECT_DIR$/documentation/stylesheet.css" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="com.epam.melotrack Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pavel_Zdanovich" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pavel_Zdanovich" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556830496411" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35308057" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.epam.melotrack.validation" />
+      <recent name="com.epam.melotrack.service" />
+      <recent name="com.epam.melotrack.pool" />
+      <recent name="com.epam.melotrack.logic" />
+      <recent name="com.epam.melotrack.dao.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\html" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\css" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\js" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Pavel_Zdanovich\src\main\resources" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\WEB-INF" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\tours" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\blank" />
+      <recent name="D:\Pavel_Zdanovich\src\main\webapp\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Microsoft Edge">
+    <configuration name="LoadLogicTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pavel_Zdanovich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.melotrack.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.melotrack.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.melotrack.logic.LoadLogicTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pavel_Zdanovich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.melotrack.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.melotrack.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.melotrack.logic.LogicTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest.testChangeLanguage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pavel_Zdanovich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.melotrack.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.melotrack.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.melotrack.logic.LogicTest" />
+      <option name="METHOD_NAME" value="testChangeLanguage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadLogicTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pavel_Zdanovich" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.melotrack.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.melotrack.logic" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.melotrack.logic.UploadLogicTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Pavel_Zdanovich" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Google Chrome" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Pavel_Zdanovich:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Pavel_Zdanovich_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Pavel_Zdanovich" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64463" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Pavel_Zdanovich:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Microsoft Edge" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/Pavel_Zdanovich_war/" />
+      <option name="BROWSER_ID" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Pavel_Zdanovich:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Pavel_Zdanovich_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Pavel_Zdanovich_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53312" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Pavel_Zdanovich:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Opera" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.11" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/Pavel_Zdanovich_war/" />
+      <option name="BROWSER_ID" value="53e2f627-b1a7-4dfa-bfa7-5b83cc034776" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Pavel_Zdanovich:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Pavel_Zdanovich_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Pavel_Zdanovich_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58184" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Pavel_Zdanovich:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.LogicTest.testChangeLanguage" />
+      <item itemvalue="TestNG.LogicTest" />
+      <item itemvalue="TestNG.LoadLogicTest" />
+      <item itemvalue="TestNG.UploadLogicTest" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="Tomcat Server.Opera" />
+      <item itemvalue="Tomcat Server.Google Chrome" />
+      <item itemvalue="Tomcat Server.Microsoft Edge" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.UploadLogicTest" />
+        <item itemvalue="TestNG.LoadLogicTest" />
+        <item itemvalue="TestNG.LogicTest" />
+        <item itemvalue="TestNG.LogicTest.testChangeLanguage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Zdan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8818cc7-6c23-4256-9200-96c0bc532589" name="Default Changelist" comment="" />
+      <created>1554804115009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554804115009</updated>
+      <workItem from="1554804120930" duration="4969000" />
+      <workItem from="1554813260981" duration="8300000" />
+      <workItem from="1554836871364" duration="3858000" />
+      <workItem from="1554881299049" duration="6380000" />
+      <workItem from="1554907046102" duration="4689000" />
+      <workItem from="1554911961615" duration="1969000" />
+      <workItem from="1554926602327" duration="1969000" />
+      <workItem from="1554965818223" duration="1242000" />
+      <workItem from="1555065858962" duration="8083000" />
+      <workItem from="1555149778131" duration="18570000" />
+      <workItem from="1555182330545" duration="4652000" />
+      <workItem from="1555231206779" duration="8051000" />
+      <workItem from="1555241113344" duration="16942000" />
+      <workItem from="1555273542076" duration="2304000" />
+      <workItem from="1555322595699" duration="9037000" />
+      <workItem from="1555481017320" duration="8041000" />
+      <workItem from="1555489219382" duration="3528000" />
+      <workItem from="1555499958372" duration="14662000" />
+      <workItem from="1555519375106" duration="183000" />
+      <workItem from="1555520294496" duration="7437000" />
+      <workItem from="1555566406322" duration="11588000" />
+      <workItem from="1555658674100" duration="920000" />
+      <workItem from="1555672394598" duration="5310000" />
+      <workItem from="1555770310758" duration="15146000" />
+      <workItem from="1555836692133" duration="590000" />
+      <workItem from="1555842346664" duration="8478000" />
+      <workItem from="1555853812247" duration="1761000" />
+      <workItem from="1555860431940" duration="3361000" />
+      <workItem from="1555868935900" duration="7473000" />
+      <workItem from="1555912036230" duration="7421000" />
+      <workItem from="1555919668911" duration="3663000" />
+      <workItem from="1555929677640" duration="7019000" />
+      <workItem from="1555948443320" duration="2964000" />
+      <workItem from="1555963851890" duration="3448000" />
+      <workItem from="1556084931315" duration="12077000" />
+      <workItem from="1556177474493" duration="6938000" />
+      <workItem from="1556304852550" duration="3844000" />
+      <workItem from="1556356568758" duration="18746000" />
+      <workItem from="1556396499450" duration="27259000" />
+      <workItem from="1556552891195" duration="5214000" />
+      <workItem from="1556651247277" duration="8772000" />
+      <workItem from="1556771821290" duration="19434000" />
+      <workItem from="1556810154525" duration="11029000" />
+      <workItem from="1556881963794" duration="4055000" />
+      <workItem from="1556963514504" duration="242000" />
+      <workItem from="1556964543335" duration="3600000" />
+      <workItem from="1556968796858" duration="10003000" />
+      <workItem from="1556986630509" duration="3776000" />
+      <workItem from="1557053772239" duration="15457000" />
+      <workItem from="1557084479182" duration="8745000" />
+      <workItem from="1557127236742" duration="12695000" />
+      <workItem from="1557140898379" duration="19636000" />
+      <workItem from="1557222997912" duration="20648000" />
+      <workItem from="1557245705105" duration="7482000" />
+      <workItem from="1557259931910" duration="6103000" />
+      <workItem from="1557302798431" duration="19608000" />
+      <workItem from="1557333459174" duration="11004000" />
+      <workItem from="1557346001505" duration="5847000" />
+      <workItem from="1557395964458" duration="12641000" />
+      <workItem from="1557430628398" duration="280000" />
+      <workItem from="1557431803244" duration="5803000" />
+      <workItem from="1557478052360" duration="2556000" />
+      <workItem from="1557484161946" duration="2602000" />
+      <workItem from="1557487387806" duration="11101000" />
+      <workItem from="1557580465041" duration="82000" />
+      <workItem from="1557580977909" duration="15575000" />
+      <workItem from="1557599169754" duration="6706000" />
+      <workItem from="1557649076989" duration="13040000" />
+      <workItem from="1557683145362" duration="14020000" />
+      <workItem from="1557739357125" duration="5439000" />
+      <workItem from="1557764722710" duration="456000" />
+      <workItem from="1557771929947" duration="2680000" />
+      <workItem from="1557775247703" duration="7638000" />
+      <workItem from="1557813932253" duration="11973000" />
+      <workItem from="1557843166198" duration="10061000" />
+      <workItem from="1557854460078" duration="662000" />
+      <workItem from="1557855906606" duration="2134000" />
+      <workItem from="1557870891561" duration="1036000" />
+      <workItem from="1557907905737" duration="24348000" />
+      <workItem from="1557934598303" duration="12161000" />
+      <workItem from="1557947834667" duration="7348000" />
+      <workItem from="1557956942064" duration="9173000" />
+      <workItem from="1557991238329" duration="19336000" />
+      <workItem from="1558015147277" duration="18608000" />
+      <workItem from="1558116177447" duration="9694000" />
+      <workItem from="1558175067400" duration="28745000" />
+      <workItem from="1558256381493" duration="24092000" />
+      <workItem from="1558283219770" duration="9770000" />
+      <workItem from="1558338273043" duration="34599000" />
+      <workItem from="1558426117907" duration="19122000" />
+      <workItem from="1558446348700" duration="2193000" />
+      <workItem from="1558450103873" duration="13048000" />
+      <workItem from="1558465560569" duration="5256000" />
+      <workItem from="1558470996636" duration="890000" />
+      <workItem from="1558511443998" duration="904000" />
+      <workItem from="1558520651436" duration="529000" />
+      <workItem from="1558521234103" duration="1901000" />
+      <workItem from="1558523210318" duration="10787000" />
+      <workItem from="1558545057999" duration="13044000" />
+      <workItem from="1558558873522" duration="2258000" />
+      <workItem from="1558596420844" duration="19585000" />
+      <workItem from="1558620466222" duration="12325000" />
+      <workItem from="1558634863987" duration="8640000" />
+      <workItem from="1558684752331" duration="8083000" />
+      <workItem from="1558697996852" duration="1017000" />
+      <workItem from="1558708566261" duration="15924000" />
+      <workItem from="1558735975241" duration="1106000" />
+      <workItem from="1559029710558" duration="11327000" />
+      <workItem from="1559050255812" duration="19733000" />
+      <workItem from="1559073056238" duration="7580000" />
+      <workItem from="1559110602680" duration="29059000" />
+      <workItem from="1559152253720" duration="5224000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1555513750740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555513750741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Worked Version">
+      <created>1558558189801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558558189801</updated>
+    </task>
+    <task id="LOCAL-00003" summary="No front version">
+      <created>1559145353854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559145353854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="No front version">
+      <created>1559146563340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559146563340</updated>
+    </task>
+    <task id="LOCAL-00005" summary="No front version">
+      <created>1559151256425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559151256425</updated>
+    </task>
+    <task id="LOCAL-00006" summary="No front version">
+      <created>1559152971249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1559152971249</updated>
+    </task>
+    <task id="LOCAL-00007" summary="No front version">
+      <created>1559153133217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1559153133217</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LogicTest - 2019.05.29 at 15h 39m 17s.xml">
+      <configuration name="LogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoadLogicTest - 2019.05.29 at 16h 06m 17s.xml">
+      <configuration name="LoadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoadLogicTest - 2019.05.29 at 16h 10m 18s.xml">
+      <configuration name="LoadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoadLogicTest - 2019.05.29 at 16h 11m 31s.xml">
+      <configuration name="LoadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoadLogicTest - 2019.05.29 at 16h 12m 32s.xml">
+      <configuration name="LoadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoadLogicTest - 2019.05.29 at 16h 12m 59s.xml">
+      <configuration name="LoadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoadLogicTest - 2019.05.29 at 16h 15m 02s.xml">
+      <configuration name="LoadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UploadLogicTest - 2019.05.29 at 16h 52m 54s.xml">
+      <configuration name="UploadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="UploadLogicTest - 2019.05.29 at 16h 54m 16s.xml">
+      <configuration name="UploadLogicTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_default_ - 2019.05.29 at 17h 16m 38s.xml">
+      <configuration name="&lt;default&gt;" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1010116000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86374694" visible="true" weight="0.2442953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
+      <window_info id="Web" order="7" sideWeight="0.13625304" side_tool="true" weight="0.23825504" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5577181" weight="0.5311615" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34560907" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.4532578" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.42416108" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.22379604" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.5758389" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.2409396" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86374694" visible="true" weight="0.30738255" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.3295302" />
+      <window_info id="Web" order="7" sideWeight="0.13625304" side_tool="true" weight="0.23825504" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5577181" visible="true" weight="0.38526914" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49716714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.44228187" side_tool="true" weight="0.22946176" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.604698" weight="0.3286119" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.18926175" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Idle Version" />
+    <MESSAGE value="Worked Version" />
+    <MESSAGE value="No front version" />
+    <option name="LAST_COMMIT_MESSAGE" value="No front version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/LoadLogic.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="((IllegalStateException)e).detailMessage" custom="java.lang.IllegalStateException" />
+        <watch expression="songsTitles.get(0).value[0]" />
+        <watch expression="contentLoader.loaders.get(0)" />
+        <watch expression="toursTitles" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/com/epam/melotrack/service/ScramblerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/epam/melotrack/dao/impl/GameDaoImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/validation/TourValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/validation/GameValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/epam/melotrack/validation/GameValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="73" lean-forward="true" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/epam/melotrack/validation/UserValidatiorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/epam/melotrack/validation/TourValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/epam/melotrack/validation/SongValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/Router.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/ResponseContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/CommandType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/CommandProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-587">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/converter/AudioFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/converter/BrowserSupportedAudioFormats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+          <folding>
+            <element signature="method#getInstance#0;class#BrowserSupportedAudioFormats#0" />
+            <element signature="method#defineSupportedAudioFromat#0;class#BrowserSupportedAudioFormats#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/entity/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/entity/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/entity/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-791">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="method#getAudio#0;class#Song#0" />
+            <element signature="method#setPlayback#0;class#Song#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/entity/Statistic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="method#put#0;class#Statistic#0" />
+            <element signature="method#put#1;class#Statistic#0" />
+            <element signature="method#getResults#0;class#Statistic#0" />
+            <element signature="method#getDates#0;class#Statistic#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/entity/Tour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="method#getBlank#0;class#Tour#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/exception/CommandException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/AvaliableLocale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/pool/ConnectionCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/pool/ProxyConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#384#472#0" />
+            <element signature="e#478#599#0" />
+            <element signature="e#605#749#0" />
+            <element signature="e#755#889#0" />
+            <element signature="e#895#1014#0" />
+            <element signature="e#1020#1153#0" />
+            <element signature="e#1159#1274#0" />
+            <element signature="e#1280#1371#0" />
+            <element signature="e#1377#1472#0" />
+            <element signature="e#1478#1597#0" />
+            <element signature="e#1603#1708#0" />
+            <element signature="e#1714#1834#0" />
+            <element signature="e#1840#1965#0" />
+            <element signature="e#1971#2080#0" />
+            <element signature="e#2086#2206#0" />
+            <element signature="e#2212#2320#0" />
+            <element signature="e#2326#2465#0" />
+            <element signature="e#2471#2602#0" />
+            <element signature="e#2608#2722#0" />
+            <element signature="e#2728#2833#0" />
+            <element signature="e#2839#3038#0" />
+            <element signature="e#3044#3270#0" />
+            <element signature="e#3276#3492#0" />
+            <element signature="e#3498#3621#0" />
+            <element signature="e#3627#3754#0" />
+            <element signature="e#3760#3893#0" />
+            <element signature="e#3899#4012#0" />
+            <element signature="e#4018#4133#0" />
+            <element signature="e#4139#4269#0" />
+            <element signature="e#4275#4398#0" />
+            <element signature="e#4404#4543#0" />
+            <element signature="e#4549#4796#0" />
+            <element signature="e#4802#5076#0" />
+            <element signature="e#5082#5346#0" />
+            <element signature="e#5352#5538#0" />
+            <element signature="e#5544#5724#0" />
+            <element signature="e#5730#5909#0" />
+            <element signature="e#5915#6021#0" />
+            <element signature="e#6027#6133#0" />
+            <element signature="e#6139#6248#0" />
+            <element signature="e#6254#6366#0" />
+            <element signature="e#6372#6493#0" />
+            <element signature="e#6499#6650#0" />
+            <element signature="e#6656#6802#0" />
+            <element signature="e#6808#6937#0" />
+            <element signature="e#6943#7061#0" />
+            <element signature="e#7067#7232#0" />
+            <element signature="e#7238#7406#0" />
+            <element signature="e#7412#7528#0" />
+            <element signature="e#7534#7640#0" />
+            <element signature="e#7646#7760#0" />
+            <element signature="e#7766#7936#0" />
+            <element signature="e#7942#8061#0" />
+            <element signature="e#8067#8185#0" />
+            <element signature="e#8191#8323#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/Loader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="30" column="90" selection-start-line="30" selection-start-column="90" selection-end-line="30" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/Scrambler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="100" column="49" selection-start-line="100" selection-start-column="49" selection-end-line="100" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/validation/SongValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/validation/UserValidatior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/content.properties">
+      <provider editor-type-id="ResourceBundle" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/pool/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="108" column="79" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
+          <folding>
+            <element signature="initializer##0;class#ConnectionPool#0" />
+            <element signature="method#ConnectionPool#0;class#ConnectionPool#0" />
+            <element signature="method#getInstance#0;class#ConnectionPool#0" />
+            <element signature="method#getConnection#0;class#ConnectionPool#0" />
+            <element signature="method#putConnection#0;class#ConnectionPool#0" />
+            <element signature="method#deregisterDrivers#0;class#ConnectionPool#0" />
+            <element signature="class#PoolChecker#0;class#ConnectionPool#0" />
+            <element signature="method#run#0;class#PoolChecker#0;class#ConnectionPool#0" />
+            <element signature="method#startPoolCheck#0;class#ConnectionPool#0" />
+            <element signature="method#cancelPoolCheck#0;class#ConnectionPool#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/UploadLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="281" column="62" selection-start-line="281" selection-start-column="62" selection-end-line="281" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#UploadLogic#0;class#UploadLogic#0" />
+            <element signature="method#addToResourceBundle#0;class#UploadLogic#0" />
+            <element signature="method#uploadStatistic#0;class#UploadLogic#0" />
+            <element signature="method#removeStatistic#0;class#UploadLogic#0" />
+            <element signature="method#removeUser#0;class#UploadLogic#0" />
+            <element signature="method#removeGame#0;class#UploadLogic#0" />
+            <element signature="method#putAllGames#0;class#UploadLogic#0" />
+            <element signature="method#putAllToursIdByGameId#0;class#UploadLogic#0" />
+            <element signature="method#removeTour#0;class#UploadLogic#0" />
+            <element signature="method#putAllTours#0;class#UploadLogic#0" />
+            <element signature="method#putAllSongsIdByTourId#0;class#UploadLogic#0" />
+            <element signature="method#uploadSong#0;class#UploadLogic#0" />
+            <element signature="method#removeSong#0;class#UploadLogic#0" />
+            <element signature="method#putAllSongs#0;class#UploadLogic#0" />
+            <element signature="method#isValidTourDetails#0;class#UploadLogic#0" />
+            <element signature="method#isValidRequiredSongDetails#0;class#UploadLogic#0" />
+            <element signature="method#isValidOptionalSongDetails#0;class#UploadLogic#0" />
+            <element signature="method#isValidGameDetails#0;class#UploadLogic#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/service/ContentLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/converter/AudioFormatConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="71" column="42" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+          <folding>
+            <element signature="method#AudioFormatConverter#0;class#AudioFormatConverter#0" />
+            <element signature="method#AudioFormatConverter#1;class#AudioFormatConverter#0" />
+            <element signature="method#setBitrate#0;class#AudioFormatConverter#0" />
+            <element signature="method#setChannels#0;class#AudioFormatConverter#0" />
+            <element signature="method#setSamplingRate#0;class#AudioFormatConverter#0" />
+            <element signature="method#setCodec#0;class#AudioFormatConverter#0" />
+            <element signature="method#convert#0;class#AudioFormatConverter#0" />
+            <element signature="method#convert#1;class#AudioFormatConverter#0" />
+            <element signature="method#isSupportedEncodingFormat#0;class#AudioFormatConverter#0" />
+            <element signature="method#isSupportedDecodingFormat#0;class#AudioFormatConverter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="e#1540#1541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/dao/impl/StatisticDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/filter/ServletSecurityFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/dao/impl/GameDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="49" column="66" selection-start-line="49" selection-start-column="66" selection-end-line="49" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/upload_game.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/common_statistic.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/dao/impl/TourDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="396" column="81" selection-start-line="396" selection-start-column="81" selection-end-line="396" selection-end-column="81" />
+          <folding>
+            <element signature="method#TourDaoImpl#0;class#TourDaoImpl#0" />
+            <element signature="method#convertBlobToFile#0;class#TourDaoImpl#0" />
+            <element signature="method#convertBinaryStreamToFile#0;class#TourDaoImpl#0" />
+            <element signature="method#findTitleById#0;class#TourDaoImpl#0" />
+            <element signature="method#findIdByTitle#0;class#TourDaoImpl#0" />
+            <element signature="method#findTitleBySetOfToursId#0;class#TourDaoImpl#0" />
+            <element signature="method#findAllTitles#0;class#TourDaoImpl#0" />
+            <element signature="method#deleteAll#0;class#TourDaoImpl#0" />
+            <element signature="method#findAllSongsIdAndPlaybackByTourId#0;class#TourDaoImpl#0" />
+            <element signature="method#updateAllSongsIdAndPlaybackByTourId#0;class#TourDaoImpl#0" />
+            <element signature="method#putAllSongsIdAndPlaybackByTourId#0;class#TourDaoImpl#0" />
+            <element signature="method#deleteAllSongsIdAndPlaybackByTourId#0;class#TourDaoImpl#0" />
+            <element signature="method#isValidTourId#0;class#TourDaoImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/command/impl/SubmitTourCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/servlet/RequestContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="213" column="46" selection-start-line="213" selection-start-column="46" selection-end-line="213" selection-end-column="46" />
+          <folding>
+            <element signature="method#RequestContent#0;class#RequestContent#0" />
+            <element signature="method#extractValues#0;class#RequestContent#0" />
+            <element signature="method#insertValues#0;class#RequestContent#0" />
+            <element signature="method#getRequestParameter#0;class#RequestContent#0" />
+            <element signature="method#getRequestAttribute#0;class#RequestContent#0" />
+            <element signature="method#getServletContent#0;class#RequestContent#0" />
+            <element signature="method#getRequestPart#0;class#RequestContent#0" />
+            <element signature="method#setRequestAttribute#0;class#RequestContent#0" />
+            <element signature="method#setSessionAttribute#0;class#RequestContent#0" />
+            <element signature="method#removeRequestAttribute#0;class#RequestContent#0" />
+            <element signature="method#removeSessionAttribute#0;class#RequestContent#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/servlet/FrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="69" column="62" selection-start-line="69" selection-start-column="62" selection-end-line="69" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/LoadLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+          <folding>
+            <element signature="method#LoadLogic#0;class#LoadLogic#0" />
+            <element signature="method#findUserStatistic#0;class#LoadLogic#0" />
+            <element signature="method#findCommonStatistic#0;class#LoadLogic#0" />
+            <element signature="method#findTourByTitle#0;class#LoadLogic#0" />
+            <element signature="method#findAllSongTitles#0;class#LoadLogic#0" />
+            <element signature="method#findSongsIdByTitles#0;class#LoadLogic#0" />
+            <element signature="method#findGameAndToursTitlesOfStatistic#0;class#LoadLogic#0" />
+            <element signature="method#findAllTourTitles#0;class#LoadLogic#0" />
+            <element signature="method#findTemplateTourRules#0;class#LoadLogic#0" />
+            <element signature="method#findTourIdByTitle#0;class#LoadLogic#0" />
+            <element signature="method#findToursIdByTitles#0;class#LoadLogic#0" />
+            <element signature="method#findAllGameTitles#0;class#LoadLogic#0" />
+            <element signature="method#findAllGameTitlesForUser#0;class#LoadLogic#0" />
+            <element signature="method#findGamesIdByTitles#0;class#LoadLogic#0" />
+            <element signature="method#findUserByUsername#0;class#LoadLogic#0" />
+            <element signature="method#findSongsByTitles#0;class#LoadLogic#0" />
+            <element signature="method#findTourTitlesBySetsOfToursId#0;class#LoadLogic#0" />
+            <element signature="method#findToursTitleById#0;class#LoadLogic#0" />
+            <element signature="method#findGameTitlesById#0;class#LoadLogic#0" />
+            <element signature="method#findGameTitlesBySetsOfToursId#0;class#LoadLogic#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/melotrack/logic/Logic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="204" column="8" selection-start-line="204" selection-start-column="8" selection-end-line="204" selection-end-column="8" />
+          <folding>
+            <element signature="method#changeLanguage#0;class#Logic#0" />
+            <element signature="method#login#0;class#Logic#0" />
+            <element signature="method#register#0;class#Logic#0" />
+            <element signature="method#nextTour#0;class#Logic#0" />
+            <element signature="method#prepareTour#0;class#Logic#0" />
+            <element signature="method#checkTour#0;class#Logic#0" />
+            <element signature="method#checkCustomTour#0;class#Logic#0" />
+            <element signature="method#checkAnswers#0;class#Logic#0" />
+            <element signature="method#countResult#0;class#Logic#0" />
+            <element signature="method#leavePlayground#0;class#Logic#0" />
+            <element signature="method#recordStatistic#0;class#Logic#0" />
+            <element signature="method#findSetOfToursIdByGameIdAndTourId#0;class#Logic#0" />
+            <element signature="e#21233#21234#0" expanded="true" />
+            <element signature="e#21269#21270#0" expanded="true" />
+            <element signature="method#setAnswers#0;class#Logic#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/navigation.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/fc42d580-830a-4566-8b07-4055dd573e18.SCHEMA:melotrack">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>fc42d580-830a-4566-8b07-4055dd573e18.SCHEMA:melotrack</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">fc42d580-830a-4566-8b07-4055dd573e18.TABLE:melotrack.songs</node>
+            <node x="392.0" y="432.0">fc42d580-830a-4566-8b07-4055dd573e18.TABLE:melotrack.games</node>
+            <node x="0.0" y="432.0">fc42d580-830a-4566-8b07-4055dd573e18.TABLE:melotrack.sets_of_tours</node>
+            <node x="183.0" y="0.0">fc42d580-830a-4566-8b07-4055dd573e18.TABLE:melotrack.tours</node>
+            <node x="0.0" y="249.0">fc42d580-830a-4566-8b07-4055dd573e18.TABLE:melotrack.users</node>
+            <node x="204.0" y="249.0">fc42d580-830a-4566-8b07-4055dd573e18.TABLE:melotrack.statistics</node>
+            <node x="210.0" y="432.0">fc42d580-830a-4566-8b07-4055dd573e18.TABLE:melotrack.sets_of_songs</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8692307692307693" x="357.0" y="321.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documentation/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Pavel_Zdanovich:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35308057" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (Pavel_Zdanovich)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35308057" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35308057" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35308057" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Pavel_Zdanovich</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35308057" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jave-1.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35308057" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
